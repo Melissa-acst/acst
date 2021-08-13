@@ -35,7 +35,7 @@
 /* Card                                       */
 /*--------------------------------------------*/
 :host {
-    --card-textColor: #384249;
+    --card-textColor: #AF7AC5;
     --card-borderRadius: 4px;
     --card-boxShadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
     --card-primaryColor: #AF7AC5;
@@ -51,9 +51,9 @@
     --card-progressBarColor: #1b88b0;
     --card-progressBarActiveColor: linear-gradient(90deg, #1b88b0 0%, #1fb5ac 100%);
     --card-progressBarRemainingColor: #AF7AC5;
-    --card-progressBarCompleteColor: #77be43;
-    --card-imageBgColor: #657783;
-    --card-checkboxDefaultColor: #657783;
+    --card-progressBarCompleteColor: #AF7AC5;
+    --card-imageBgColor: #AF7AC5;
+    --card-checkboxDefaultColor: #AF7AC5;
     --card-labelBgColor: #AF7AC5;
 }
 
@@ -82,8 +82,8 @@
 /* Inner Page Details                         */
 /*--------------------------------------------*/
 :host {
-    --innerPage-bgColor: #657783;
-    --innerPage-textColor: #384249;
+    --innerPage-bgColor: #AF7AC5;
+    --innerPage-textColor: #AF7AC5;
     --innerPage-fontSize: 18px;
     --innerPage-lineHeight: 34px;
     --innerPage-primaryColor: #AF7AC5;
@@ -108,18 +108,18 @@
     --innerPage-progressBarRemainingColor: var(--card-progressBarRemainingColor);
     --innerPage-progressBarCompleteColor: var(--card-progressBarCompleteColor);
     --innerPage-labelBgColor: #AF7AC5;
-    --innerPage-linkColor: #4684ca;
-    --innerPage-linkHoverColor: #4684ca;
-    --innerPage-linkActiveColor: #4273aa;
+    --innerPage-linkColor: #AF7AC5;
+    --innerPage-linkHoverColor: #AF7AC5;
+    --innerPage-linkActiveColor: #AF7AC5;
     --innerPage-imageBgColor: #AF7AC5;
-    --innerPage-mapBgColor: #efefef;
+    --innerPage-mapBgColor: #AF7AC5;
 }
 
 /*--------------------------------------------*/
 /* Login                                      */
 /*--------------------------------------------*/
 :host {
-    --component-bgColor: #657783;
+    --component-bgColor: #AF7AC5;
 }
 
 /*--------------------------------------------*/
