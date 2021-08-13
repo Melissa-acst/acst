@@ -5,7 +5,7 @@
     --root-text-color: #565656;
     --root-font-size: 14px;
     --root-line-height: 24px;
-    --primary: #123456;
+    --primary: #AF7AC5;
     --secondary: #88a0af;
     --form-field-bgcolor: #f9f9f9;
     --form-field-border: #b4c5cf;
@@ -13,7 +13,7 @@
     --form-valid: #42bc34;
     --form-invalid: #dc3545;
     --form-btn-primary-text: #fff;
-    --form-btn-primary-bgcolor: var(--primary);
+    --form-btn-primary-bgcolor: #AF7AC5;
     --form-btn-primary-hover: #AF7AC5;
     --form-btn-primary-active: #AF7AC5;
     --form-btn-secondary-text: #AF7AC5;
@@ -23,7 +23,7 @@
     --form-btn-disabled: #657783;
     --card-bgcolor: #fff;
     --card-title-color: #696969;
-    --card-header-bgcolor: #6c757d;
+    --card-header-bgcolor: #AF7AC5;
     --box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
     --progress-pledged: #1b88b0;
     --progress-received: #000;
